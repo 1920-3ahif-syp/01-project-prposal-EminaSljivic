@@ -7,7 +7,7 @@ Hausaufgabenhelfer
 Dieses Projekt wird begleitet von der zuständigen Lehrkraft im Fach SYP (Prof. Dr. Mag. Thomas Stütz).
 
 ## Projekthintergrund
-Dieses Projekt soll Schülern helfen Hausaufgaben zu lösen. Kommt man bei einer Aufgabe nicht weiter stellt man eine Frage auf der App Hausaufgabenhelfer, diese Frage wird dann von einem Lehrer oder Schüler, die sich zuvor einem Test unterzogen haben, beantwortet. Außerdem kann man vor einem Test noch fragen stellen und muss nicht immer direkt zum eigenen Lehrer laufen.
+Dieses Projekt soll Schülern helfen Hausaufgaben zu lösen. Kommt man bei einer Aufgabe nicht weiter stellt man eine Frage auf der App Hausaufgabenhelfer, diese Frage wird dann von einem Lehrer oder Schüler, die sich zuvor einem Test unterzogen haben, beantwortet. Außerdem kann man vor einem Test noch Fragen stellen und muss nicht immer direkt zum eigenen Lehrer laufen.
 
 ## Sinn und Zweck
 Der Sinn ist es den Schüler bei Aufgaben einen Lösungsweg zu zeigen und das alles in kurzer Zeit.
