@@ -32,13 +32,13 @@ nicht festgelegt
 
 ## Projektressourcen
 ### Mit Arduino
-Arduino Uno/Nano
-Joystick
-4 Tasten
-Kabel
+* Arduino Uno/Nano
+* Joystick
+* 4 Tasten
+* Kabel
 ### Raspberrypi
-Raspberrypi
-Display
+* Raspberrypi
+* Display
 
 ## Projektrisiken
 Zeitmangel, Geld
