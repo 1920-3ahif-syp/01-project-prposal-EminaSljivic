@@ -49,6 +49,6 @@ Projektmanager-Stellvertreter: Moritz Polleichtner
 Projektteam: Felix Rieser
 
 ## Abschluss des Projektauftrags
-![Alt-Text](EminaSljivic.jpg)
+![Alt-Text](https://github.com/1920-3ahif-syp/01-project-prposal-EminaSljivic/blob/master/EminaSljivic.png)
 ![Alt-Text](FelixRieser.jpg)
 ![Alt-Text](MoritzPolleichtner.jpg)
