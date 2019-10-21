@@ -3,7 +3,6 @@ Mintendo
 
 ## Projektauftraggeber
 
-
 ## Projekthintergrund
 Da in letzter Zeit Konsolen, wie der Nintendo oder Spiele wie Snake und Tetris in Vergessenheit geraten, erwecken wir diese in einer besonderen Weise wieder zum Leben.
 
@@ -44,9 +43,9 @@ nicht festgelegt
 Zeitmangel, Geld
 
 ## Projektorganisation
-Projektmanager: Emina Sljivic
-Projektmanager-Stellvertreter: Moritz Polleichtner
-Projektteam: Felix Rieser
+* Projektmanager: Emina Sljivic
+* Projektmanager-Stellvertreter: Moritz Polleichtner
+* Projektteam: Felix Rieser
 
 ## Abschluss des Projektauftrags
 ![Alt-Text](https://github.com/1920-3ahif-syp/01-project-prposal-EminaSljivic/blob/master/EminaSljivic.jpg)
