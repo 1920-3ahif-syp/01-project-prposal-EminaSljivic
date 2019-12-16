@@ -39,6 +39,8 @@ image::https://github.com/1920-3ahif-syp/01-project-prposal-EminaSljivic/blob/ma
 
 image::https://github.com/1920-3ahif-syp/01-project-prposal-EminaSljivic/blob/master/usecasediagramm.iuml[Example]
 
+image::http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Maxwahl/asciidoctor/master/assets/example.iuml[Example]
+
 
 == Zielsetzung
 Das Projekt soll den Lehrern und Schülern helfen Veranstaltungen zu organisieren. Gruppen können erstellt werden
