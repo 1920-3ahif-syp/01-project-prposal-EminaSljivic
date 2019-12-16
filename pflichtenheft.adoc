@@ -35,7 +35,7 @@ Internet veröffentlicht und ist kaum findbar. Die Kommunikation zwischen den Le
 Es ist eine Java Applikation zu entwickeln die den Schüler und Lehrern das Organisieren von schulischen Veranstaltungen erleichtert.
 Das Erstellen von eigenen Gruppen zur Koordinierung und Kommunikation unter Schüler und Lehrer, soll ebenfalls möglich sein.
 
-image::http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/1920-3ahif-syp/01-project-prposal-EminaSljivic/master/klassendiagramm.iuml[Example]
+![PlantUML model](http://www.plantuml.com/plantuml/png/3Sp15S8m203GLNI0b5PFUdS29q2A3NqXoGEYp-tjwT_-MIgLiVAmSieHtUy0XjzfayZZDPoDMWskCL5JM6wNELqnoplvhyEyf6vjPuh3tXnBUgXKV9PTFaAWwC46nqBel0fkXgfJ7rh-)
 
 image::http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/1920-3ahif-syp/01-project-prposal-EminaSljivic/master/usecasediagramm.iuml[Example]
 
