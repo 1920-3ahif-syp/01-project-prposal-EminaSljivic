@@ -1,0 +1,9 @@
+[plantuml]
+....
+Event "1" -- "*" Station : has
+Station "1" -- "1..*" Teacher : manages
+Station "1" -right- "*" Student : assists at
+Student -down-|> Person
+Teacher -right-|> Person
+Student -right-> "1" Schoolclass
+....
