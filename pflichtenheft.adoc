@@ -37,7 +37,7 @@ Das Erstellen von eigenen Gruppen zur Koordinierung und Kommunikation unter Sch�
 
 image::http://www.plantuml.com/plantuml/png/5Ssx4S8m303GdYbW0CS9L52bOG8c48w8bRDidpvmR4-eNlbcDH1pBeSJrLHyGPTop6PTRp4AV8QLBFlJ5IMrQbXjI8tZT3sFuGAPNa6_FOvJwD8sJBRRcq89TwOAZxBHcr9aK4E9hfX0SI5O1PY7_ezdhClk3m00[Example]
 
-image::http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/1920-3ahif-syp/01-project-prposal-EminaSljivic/master/usecasediagramm.iuml[Example]
+image::http://www.plantuml.com/plantuml/png/5SsniS8m383X_atn6C1n0XLKQPY02OGZ4WN9zaao7DjZgk_kR_xP7DIRyD-1SkAsO5F-tzohNM9KU0yh-TRkpL1JoOxPXrGaJkVZ64wmqIFOfyPn2bNBZicxjHXmk0fbkF5EBqfHm1mrFXdCC2y4guB8K7_ZkOVk5m00[Example]
 
 == Zielsetzung
 Das Projekt soll den Lehrern und Schülern helfen Veranstaltungen zu organisieren. Gruppen können erstellt werden
