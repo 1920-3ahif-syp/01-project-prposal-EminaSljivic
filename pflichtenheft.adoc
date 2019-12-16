@@ -46,7 +46,6 @@ und die Kommunikation/Koordination erfolgt über die Applikation.
 == Funktionale Anforderungen
 * Stationen erstellen
 * Event erstellen
-* Events anzeigen
 * Kommunikation innerhalb einer/s Station/Events
 * Schüler und Lehrer zu einer/m Station/Event hinzufügen
 * Event/Station löschen
