@@ -1,5 +1,4 @@
-[plantuml]
-....
+@startuml
 left to right direction
 actor Lehrer
 actor Database
@@ -13,4 +12,4 @@ rectangle EventOrganizer{
     Lehrer -- (Kommunikation)
     Database -- (Kommunikation)
 }
-....
+@enduml
