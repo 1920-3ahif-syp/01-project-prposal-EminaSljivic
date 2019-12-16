@@ -34,32 +34,11 @@ Internet veröffentlicht und ist kaum findbar. Die Kommunikation zwischen den Le
 == Aufgabenstellung
 Es ist eine Java Applikation zu entwickeln die den Schüler und Lehrern das Organisieren von schulischen Veranstaltungen erleichtert.
 Das Erstellen von eigenen Gruppen zur Koordinierung und Kommunikation unter Schüler und Lehrer, soll ebenfalls möglich sein.
-[plantuml]
-....
-Event "1" -- "*" Station : has
-Station "1" -- "1..*" Teacher : manages
-Station "1" -right- "*" Student : assists at
-Student -down-|> Person
-Teacher -right-|> Person
-Student -right-> "1" Schoolclass
-....
 
-[plantuml]
-....
-left to right direction
-actor Lehrer
-actor Database
-actor Schüler
-rectangle EventOrganizer{
-    Lehrer -- (Station erstellen/bearbeiten)
-    (Station erstellen/bearbeiten) -- Database
-    Lehrer -- (Event erstellen/bearbeiten)
-    (Event erstellen/bearbeiten) -- Database
-    Schüler -- (Kommunikation)
-    Lehrer -- (Kommunikation)
-    Database -- (Kommunikation)
-}
-....
+image::https://github.com/1920-3ahif-syp/01-project-prposal-EminaSljivic/blob/master/klassendiagramm.iuml[Example]
+
+image::https://github.com/1920-3ahif-syp/01-project-prposal-EminaSljivic/blob/master/usecasediagramm.iuml[Example]
+
 
 == Zielsetzung
 Das Projekt soll den Lehrern und Schülern helfen Veranstaltungen zu organisieren. Gruppen können erstellt werden
