@@ -1,0 +1,15 @@
+@startuml
+left to right direction
+actor Lehrer
+actor Database
+actor Schüler
+rectangle EventOrganizer{
+    Lehrer -- (Station erstellen/bearbeiten)
+    (Station erstellen/bearbeiten) -- Database
+    Lehrer -- (Event erstellen/bearbeiten)
+    (Event erstellen/bearbeiten) -- Database
+    Schüler -- (Kommunikation)
+    Lehrer -- (Kommunikation)
+    Database -- (Kommunikation)
+}
+@enduml

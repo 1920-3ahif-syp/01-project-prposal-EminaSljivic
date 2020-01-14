@@ -1,0 +1,67 @@
+= Pflichtenheft EventOrganizer
+// Metadata
+:author: Polleichtner, Sljivic, Rieser
+:date: 2019-12-15
+:revision:  1.0
+// Settings
+:source-highlighter: coderay
+:icons: font
+:sectnums:    // Nummerierung der Überschriften / section numbering
+// Refs:
+// :imagesdir: images
+// :sourcedir-code: src/main/java/at/htl/jdbcprimer
+// :sourcedir-test: src/test/java/at/htl/jdbcprimer
+:toc:
+
+Version: {revision}
+
+++++
+<link rel="stylesheet"  href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+++++
+
+== Ausgangszustand
+Ausgegangen wird von der HTBLA Leonding mit ca. 1000 Schüler und mehr als 100 Lehrer, die im Jahr vier bis fünf Veranstaltungen planen müssen.
+
+== Istzustand
+Die Organisation der Veranstaltungen wird zur Zeit nur über E-Mails und persönliche Treffen geregelt.
+Diese Besprechungen finden oft während der Unterrichtszeit statt und die Links zu Einteilungen werden irgendwo im Internet verbreitet und keiner weiß, wo sie zu finden sind.
+
+== Problemstellung
+Da aber diese Besprechungen während der Unterrichtszeit stattfinden, verpassen die Schüler, vielleicht sogar prüfungsrelevanten Stoff.
+Die Einteilung zum Bsp. für die Welser Messe wird irgendwo im
+Internet veröffentlicht und ist kaum findbar. Die Kommunikation zwischen den Lehrern und Schülern ist sehr erschwert.
+Außerdem erfährt keiner etwas von Planänderungen.
+
+== Aufgabenstellung
+Es ist eine Applikation zu entwickeln die den Schüler und Lehrern das Organisieren von schulischen Veranstaltungen erleichtert.
+Das Erstellen von eigenen Gruppen zur Koordinierung und Kommunikation unter Schüler und Lehrer, soll ebenfalls möglich sein.
+
+image::http://www.plantuml.com/plantuml/png/5Ssx4S8m303GdYbW0CS9L52bOG8c48w8bRDidpvmR4-eNlbcDH1pBeSJrLHyGPTop6PTRp4AV8QLBFlJ5IMrQbXjI8tZT3sFuGAPNa6_FOvJwD8sJBRRcq89TwOAZxBHcr9aK4E9hfX0SI5O1PY7_ezdhClk3m00[Example]
+
+image::http://www.plantuml.com/plantuml/png/5SsniS8m383X_atn6C1n0XLKQPY02OGZ4WN9zaao7DjZgk_kR_xP7DIRyD-1SkAsO5F-tzohNM9KU0yh-TRkpL1JoOxPXrGaJkVZ64wmqIFOfyPn2bNBZicxjHXmk0fbkF5EBqfHm1mrFXdCC2y4guB8K7_ZkOVk5m00[Example]
+
+== Zielsetzung
+Das Projekt soll den Lehrern und Schülern helfen Veranstaltungen zu organisieren. Gruppen können erstellt werden
+und die Kommunikation/Koordination erfolgt über die Applikation.
+
+== Funktionale Anforderungen
+* Stationen erstellen
+* Event erstellen
+* Kommunikation innerhalb einer/s Station/Events
+* Schüler und Lehrer zu einer/m Station/Event hinzufügen
+* Event/Station löschen
+* Event/Station anzeigen
+
+== Nichtfunktionale Anforderungen
+* Benutzbarkeit
+* Zuverlässigkeit
+* Effizienz
+* Leistungsverhalten
+* Wartbarkeit
+* Wiederverwendbarkeit
+
+== Mengengerüst
+Da im Grunde dies nur ein Event Manager der Schule HTL Leonding ist begrenzt sich die Anzahl der User auf maximal alle Schüler
+plus alle Lehrer und das ist eine überschaubare Zahl.
+
+Da sich je nach Größe der Veranstaltung auch die Anzahl der Beteiligten ändert, ist es schwer zu sagen, wie viele Einträge es geben wird.
