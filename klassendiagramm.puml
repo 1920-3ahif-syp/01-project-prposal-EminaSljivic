@@ -1,8 +1,32 @@
 @startuml
+top to bottom direction
+class Event{
+    int _eventId
+    String _title
+    String _description
+    Date _startDate
+    Date _endDate
+}
+class Station{
+    String _title
+    Event _eventId
+    Department _department
+}
+class Allocation{
+    Person _person
+    Time _startTime
+    Time _endTime
+    Role _role
+}
+class Person{
+    String _firstName
+    String _lastName;
+}
+class Student{
+    SchoolClass class
+}
 Event "1" -- "*" Station : has
-Station "1" -- "1..*" Teacher : manages
-Station "1" -right- "*" Student : assists at
-Student -down-|> Person
-Teacher -right-|> Person
-Student -right-> "1" Schoolclass
+Allocation "1" -right- "1" Person : belongs to
+Student --|> Person
+Station "*" -- "1" Allocation
 @enduml
