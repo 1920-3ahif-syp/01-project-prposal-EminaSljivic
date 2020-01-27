@@ -41,8 +41,7 @@ image::http://www.plantuml.com/plantuml/png/5Ssx4S8m303GdYbW0CS9L52bOG8c48w8bRDi
 image::http://www.plantuml.com/plantuml/png/5SsniS8m383X_atn6C1n0XLKQPY02OGZ4WN9zaao7DjZgk_kR_xP7DIRyD-1SkAsO5F-tzohNM9KU0yh-TRkpL1JoOxPXrGaJkVZ64wmqIFOfyPn2bNBZicxjHXmk0fbkF5EBqfHm1mrFXdCC2y4guB8K7_ZkOVk5m00[Example]
 
 == Zielsetzung
-Das Projekt soll den Lehrern und Schülern helfen Veranstaltungen zu organisieren. Gruppen können erstellt werden
-und die Kommunikation/Koordination erfolgt über die Applikation.
+Fehlstunden sollen vermidertwerden und die Einteilung der Schüler soll übersichtlicher sein.
 
 == Funktionale Anforderungen
 * Stationen erstellen
